@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Cripta</string>
+
+    <string name="coinmarketcap_api_key">ef59476b-e6f7-46d0-8e7c-f66fb8c84d1f</string>
+</resources>
